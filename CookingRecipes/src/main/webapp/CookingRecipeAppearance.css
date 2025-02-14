@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flex-item {
+	/*text-align: center;*/
+	/*margin-right: 10px;*/
+	width: 50%;
+}
