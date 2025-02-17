@@ -1,5 +1,28 @@
 @charset "UTF-8";
 
+body {
+	margin: 0 0 0 0;
+	background-color: #fff8dc;
+}
+
+.header {
+	background-color: #00ffff;
+}
+
+.wrapper {
+	margin: 0 auto 0 auto;
+	max-width: 750px;
+	background-color: #f4a460;
+	padding-top: 1px;
+	padding-left: 20px;
+	padding-right: 10px;
+	padding-bottom: 1px;
+	border-top-left-radius: 40px;
+  	border-top-right-radius: 40px;
+  	border-bottom-right-radius: 40px;
+  	border-bottom-left-radius: 40px;
+}
+
 .flex-container {
 	display: flex;
 	flex-wrap: wrap;
